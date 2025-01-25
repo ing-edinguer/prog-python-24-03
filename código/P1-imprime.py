@@ -5,3 +5,4 @@ def mensaje():
 
 # Llamamos a la función
 mensaje()
+print("adiós")
